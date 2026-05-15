@@ -1,0 +1,19 @@
+{
+  "morning": {
+    "modern": 55,
+    "internet": 73
+  },
+  "afternoon": {
+    "modern": 99,
+    "internet": 88
+  }
+}ime": "9:30 AM"
+      },
+      "afternoon": {
+        "modern": "99",
+        "internet": "88",
+        "time": "2:00 PM"
+      }
+    }
+  }
+}
