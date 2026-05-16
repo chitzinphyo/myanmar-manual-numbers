@@ -1,10 +1,10 @@
 {
   "morning": {
-    "modern": 50,
-    "internet": 06
+    "modern": 55,
+    "internet": 78
   },
   "afternoon": {
-    "modern": 52,
-    "internet": 92
+    "modern": 99,
+    "internet": 98
   }
 }
